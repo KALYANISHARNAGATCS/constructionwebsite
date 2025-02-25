@@ -1,0 +1,353 @@
+/* div section1 */
+.section1 a{
+    list-style-type: none;
+    color: white;
+    /* margin: 0;
+    padding: 0;
+    border: 0;
+    /* height: 50px; */
+
+} 
+ /* div section2 */
+ .section2{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 0; 
+   
+ }
+ .section21{
+   
+
+ }
+ .section3{
+    background-image: url(TopHeadImage.jpg);
+    height: 850px;
+    opacity: 1px;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .section4{
+    font-size: 30px;
+    color: white;
+ }
+
+ /* font size */
+ .section41{
+    padding-left: 200px;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+ }
+ .section42{
+   font-size: large;
+   padding-left: 200px;
+   line-height: 10px;
+ }
+
+ /* page section5 */
+/* .section5{
+   padding-top: 600px; 
+   text-align: center;
+}
+.section51{
+   font-size: 80px;
+}
+.section52{
+   font-size: 20px;
+} */
+
+/* page section6 */
+/* .section6{
+   padding-top: 300px;
+   display: flex; */
+   /* font-size: xx-large; */
+   
+/* } */
+.grid-container {
+   margin-top: 500px;
+   display: grid;
+   height: 500px;
+   gap: 10px;
+   width: 600px;
+   grid-template-columns: auto auto auto;
+   border-radius: 5px;
+   /* background-color: rgb(210, 220, 228); */
+   padding: 10px
+}
+.grid-container > div {
+  
+   color: #4c4c4c;
+   padding: 10px;
+   font-size: 30px;
+   text-align: center;
+ }
+ .item1 {
+   grid-area: 1 / 1;
+   background-color: white;
+   width: 500px;
+   height: 470px;
+   border: 2px solid #fff;
+   /* box-shadow: 1px 2px 2px 2px #fff; */
+   border-radius: 15px;
+   margin-left: 100px;
+}
+.imagepara{
+   font-size: 17px;
+}
+
+/* place in row 2 column 3 */
+.item2 {grid-area: 1 / 2;
+   background-color: white;
+   width: 500px;
+   border: 2px solid white;
+   border-radius: 15px;
+   margin-left: 100px;
+}
+
+/* place in row 1 column 1 */
+.item3 {grid-area: 1 / 3;
+   background-color: white;
+   width: 500px;
+   border: 2px solid white;
+   border-radius: 15px;
+   margin-left: 100px;
+}
+ div image a{
+
+text-decoration: none;
+}
+
+.section7{
+   font-size: large;
+   text-align: center;
+   color: #4c4c4c;
+  
+}
+.sectionimage8{
+   display: flex;
+   padding-left: 230px;
+   padding-top: 100px;
+}
+.sectionimage82{
+   padding-left: 100px;
+}
+.sectionimage83{
+   padding-left: 100px;
+}
+.section8{
+   padding-top: 100px;
+   font-size: 22px;
+   text-align: center;
+}
+.section9{
+   font-size: 22px;
+   text-align: center;
+   text-decoration: none;
+}
+.section99{
+   text-align: center;
+   padding-top: 100px;
+   /* border-bottom: 1px #000; */
+  
+}
+.section91{
+   text-decoration: none;
+   font-size: 40px;
+   color: #4c4c4c; 
+  
+}
+.section10{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   padding-top: 90px;
+   padding-left: 40px;
+   font-size: x-large;
+}
+.section101{
+     border: 1px solid black;
+     width: 80px;
+     /* margin: auto; */
+     padding-top: 15px;
+     padding-bottom: 15px;
+     padding-left: 15px;
+     padding-right: 15px;
+     margin-right: 290px;
+     /* text-align: center; */
+}
+
+/* pagesection12 */
+.grid-container1 {
+   margin-top: 300px;
+   display: grid;
+   height: 500px;
+   /* width: 100px; */
+   gap: 20px;
+   grid-template-columns: auto auto auto;
+   border-radius: 5px;
+   /* background-color: rgb(210, 220, 228); */
+   padding: 10px;
+  
+}
+.imagesection1{
+   border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.grid-container1 > div{
+   color:#000;
+   padding: 10px;
+   /* font-size: 30px; */
+   text-align: center;
+   background-color: white;
+   /* border: 1px solid rgb(66, 8, 8); */
+   border-radius: 10px;
+   width: 550px;
+   height: 600px;
+
+}
+.item11 {
+   grid-area: 1 / 1;
+   background-color: white;
+   width: 500px;
+   border: 2px solid white;
+   border-radius: 15px;
+   margin-left: 20px;
+}
+.item12 {grid-area: 1 / 2;
+   background-color: white;
+   width: 500px;
+   border: 2px solid white;
+   border-radius: 15px;
+   margin-left: 50px;
+}
+.item13 {grid-area: 1 / 3;
+   background-color: white;
+   width: 500px;
+   border: 2px solid white;
+   border-radius: 15px;
+   margin-left: 50px;
+}
+.imagesection12{
+    border: 1px solid white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 550px;
+    height: 300px;
+    font-size: 10px;
+}
+.grid-container1 > div a{
+   text-decoration: none;
+   color: rgb(31, 15, 9);
+   font-size: xx-large;
+
+}
+.section13 
+{
+   text-align: center;
+}
+.section13 > a{
+   text-decoration: none;
+   /* text-align: center; */
+   font-size: 30px;
+   color: #000;
+}
+/* pagesection14 */
+.section14{
+   display: flex;
+   gap: 500px;
+   margin: auto;
+   margin-top: 200px;
+   margin-left: 350px;
+}
+.orangebox{
+   color: white;
+   width: 70px;
+   height: 70px;
+   background-color: rgb(235, 121, 79);
+   transform: rotate(-45deg);
+   line-height: 70px;
+    text-align: center;
+    /* transform: rotate(5deg); */
+    margin: 15px 0
+   
+}
+/* pagesection15 */
+.section15{
+   display: flex;
+   gap: 500px;
+   color:gray;
+   margin-left: 300px;
+   margin-top: 50px;
+  
+}
+.number{
+   font-size: 25px;
+    font-weight: 600;
+    color: #fff;
+    transform: rotate(47deg);
+}
+/* pagesection16 */
+.section16{
+   font-size: 30px;
+   text-align: center;
+   padding-top: 100px;
+
+}
+/* pagesection17 */
+.section17{
+   background-color: #231f20;
+   display: flex;
+   height: 300px;
+   
+   
+}
+div > a{
+   color: yellow;
+   text-decoration: none;
+}
+/* section171 */
+.section171{
+   padding-left: 30px;
+   padding-top: 50px;
+}
+.section171one{
+   color:white ;
+   list-style-type: none;
+   text-decoration: none;
+   font-weight: bold;
+   /* padding-left: 90px; */
+}
+.section171two{
+   color:white ;
+   list-style-type: none;
+   text-decoration: none;
+   font-weight: bold;
+}
+
+.section172{
+   padding-left: 150px;
+   padding-top: 50px;
+}
+.section173{
+   padding-left: 150px;
+   padding-top: 50px;
+}
+.section174{
+   padding-left: 150px;
+   padding-top: 50px;
+}
+.section175{
+   color: white;
+   padding-left: 190px;
+   padding-top: 150px;
+   
+}
+.section18{
+   color: white;
+   background-color: #000;
+   height: 80px;
+   padding-left: 50px;
+   padding-top: 30px;
+   text-align: center;
+}

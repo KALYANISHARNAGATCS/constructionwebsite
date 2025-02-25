@@ -1,0 +1,143 @@
+ 
+ .section1 a{
+        list-style-type: none;
+        color: white;
+}
+/* .section2{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 0; 
+   
+   
+   
+ } */
+.section3{
+    background-image: url(AboutUsHeader.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -17;
+    height: 300px;
+    color: #fff;
+    padding-left: 100px;
+    padding-top: 70px;
+    font-weight: 5px;
+    font-size: xx-large;
+    font-family: sans-serif;
+   
+ }
+ .section4{
+   
+    font-size: x-large;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 50px;
+ }
+ p{
+    font-size: x-large;
+    font-family: Nunito,sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #4c4c4c;
+    padding-left: 100px;
+    padding-top: 100px;
+    border-bottom: 5px #4c4c4c;
+ }
+ .section51{
+    display: flex;
+ }
+ .part1{
+    padding-left: 100px;
+    padding-right: 150px;
+    
+    
+ }
+ a{
+    padding-left: 30px;
+    text-align: center;
+    
+ }
+ 
+ .part2{
+    padding-right: 140px;
+ }
+ /* part section6 */
+ .section6head{
+    font-size: 30px;
+    color: #4c4c4c;
+    padding-left: 900px;
+    padding-top: 100px;
+ }
+ .section6{
+    display: flex;
+ }
+ .section7{
+   background-color: black;
+   margin-top: 100px;
+   height: 600px;
+   margin-bottom: 100px;
+   /* justify-content: space-between; */
+   
+ }
+ .section77{
+    display: flex;
+ }
+ p{
+    color: #fff;
+    font-size: 40px;
+    padding-left: 100px;
+ }
+ .section71{
+    background-color: #fff;
+    width: 500px;
+    height: 200px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+ }
+ 
+ .section72{
+    background-color: #fff;
+    width: 500px;
+    height: 200px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+ }
+ .section73{
+    background-color: #fff;
+    width: 500px;
+    height: 200px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+ }
+ /* page section8 */
+ .section88{
+   display: flex;
+   justify-content: space-between;
+   justify-content: space-around;
+   justify-content: space-evenly;
+ }
+ .imagesection8{
+   border: 1px solid black;
+   border-radius: 50%;
+ }
+ .section81{
+   width: 300px;
+   height: 500px;
+   box-sizing: border-box;
+   border: 1px solid bl;
+ }

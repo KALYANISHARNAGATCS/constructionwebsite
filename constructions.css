@@ -1,0 +1,84 @@
+/* block section1 navbar */
+.sectionhead{
+    color: white;
+    font-weight: bold;
+}
+/* block section2 navbar */
+.section2{
+    background-color: #EF9114;
+    display: flex;
+}
+h3{
+    padding-top: 20px;
+}
+/* block section3 image*/
+.section3{
+background-image: url(bulding.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+padding-right: 400px;
+height: 800px;
+width: 1895px;
+}
+
+.words1{
+   
+    font-size: 80px;
+    line-height: 100%;
+    font-weight: 8px;
+    padding-left: 50px;
+    padding-top: 200px;
+    font-family: "Overpass", serif;
+}
+.words2{
+    font-size: 50px;
+    color: #EF9114;
+    padding-left: 50px;
+    padding-top: 40px;
+}
+
+/* block section4 */
+
+.section4{
+    display: flex;
+     /* justify-content: space-around; */
+    justify-content: space-between;
+     
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.section41{
+    color: black;
+    font-size: 50px;
+    padding-left: 100px;
+    padding-top: 90px;
+}
+.section42{
+    color: black;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 100px;
+    font-weight: lighter;
+    padding-right: 200px;
+    padding-left: 100px;
+
+}
+/* block section5 */
+.section5{
+    display: flex;
+    justify-content: space-around;
+}
+.imagesection1a{
+   text-decoration: none; 
+   color: rgb(36, 31, 31);
+}
+/* .imagespace{
+    border: 2px solid black;
+    width: 500px;
+    height: 800px;
+}
+.imageblock1{
+    color: #000;
+    font-weight: lighter;
+} */
