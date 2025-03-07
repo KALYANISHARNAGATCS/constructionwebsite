@@ -1,0 +1,239 @@
+/* block section1  */
+.section1{
+    background-color: #EF9114;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 10px;
+    height: 90px;
+  }
+  .sectionnavbar{
+    display: flex;
+    padding-left: 700px;
+    list-style-type: none;
+    padding-top: 30px;
+    color: #fff;
+  }
+  
+
+  .item1{
+    padding-left: 400px;
+   
+  }
+  
+  .item2{
+    padding-left: 100px;
+  }
+  .item3{
+    padding-left: 100px;
+  }
+  
+  .item4{
+    padding-left: 100px;
+  }
+ 
+ 
+ /* block section2  */
+   .imageblock2{
+      width: 1895px;
+      position: absolute;
+      z-index: -1;
+   }
+  .section2text1{
+   font-size: 100px;
+   padding-top: 500px;
+   padding-left: 200px;
+   color: #fff;
+  }
+  .section2text2{
+   color: #EF9114;
+   font-size: 20px;
+   padding-left: 210px;
+   margin-top: -35px;
+  }
+  /* block section3  */
+  .section3{
+   font-size: 60px;
+   text-align: center;
+   padding-top: 300px;
+   font-family: "Cairo", Sans-serif;
+  }
+  .section31{
+   text-align: center;
+   font-size: 20px;
+   font-weight: bold;
+  }
+  
+  /* block section4  */
+ .section4{
+   display: flex;
+   /* justify-content: space-around; */
+ 
+   margin-top: 100px;
+ }
+ .logomap{
+   border: 1px  solid white;
+   border-radius: 28px ;
+   height: 800px;
+   margin-left: 100px;
+  
+ }
+ .block42{
+   box-sizing: border-box;
+   width: 850px;
+   height: 800px;
+   border-radius: 28px;
+   border: 1px solid #EF9114;
+   background-color: #EF9114;
+   margin-left: 40px;
+ }
+ .formhead{
+   font-size:60px;
+   padding-left: 100px;
+ }
+ .textinput{
+   width: 650px;
+   height: 70px;
+   margin-left: 100px;
+   margin-top: 30px;
+   border-radius: 5px;
+   font-weight: bold;
+   color: gray;
+   font-size: x-large;
+ }
+ .textinput1{
+   width: 650px;
+   height: 140px;
+   /* padding-top: -500px; */
+   margin-left: 100px;
+   margin-top: 30px;
+   display: flex;
+   justify-content: top;
+   align-items: top;
+   border-radius: 5px;
+   font-weight: bold;
+   color: gray;
+   font-size: x-large;
+ }
+ .buttoninput{
+   background-color: black;
+   color: #fff;
+   font-weight: bold;
+   font-size: x-large;
+   width: 290px;
+   height: 70px;
+   margin-left: 100px;
+   margin-top: 10px;
+   border-radius: 5px;
+ 
+ }
+  /* footer section   pagesection17 */
+ 
+ .section17{
+    background-color: #231f20;
+    display: flex;
+    height: 400px;
+    margin-top: 100px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+ }
+ div > a{
+    color: #EF9114;
+    text-decoration: none;
+    font-size: 30px;
+ }
+ 
+ .section171{
+    padding-left: 100px;
+    padding-top: 50px;
+ }
+ .section171one{
+    color:white ;
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: bold;
+ }
+ .section171two{
+    color:white ;
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: bold;
+ }
+ 
+ .section172{
+    padding-left: 150px;
+    padding-top: 50px;
+ }
+ .section173{
+    padding-left: 150px;
+    padding-top: 50px;
+ }
+ .section174{
+    padding-left: 150px;
+    padding-top: 50px;
+ }
+ .section175{
+    color: white;
+    padding-left: 190px;
+    padding-top: 100px;
+    
+ }
+ .section18{
+    color: white;
+    background-color: #EF9114;
+    height: 80px;
+    padding-left: 50px;
+    padding-top: 24px;
+    text-align: center;
+    font-size: 25px;
+ }
+ 
+ 
+ @media screen and  (max-width: 1024px) {
+    .sectionnavbar{
+        display: flex;
+        padding-left: 0px;
+        list-style-type: none;
+        padding-top: 30px;
+        color: #fff;
+      }
+      .item1{
+        padding-left: 0px;
+        font-size: 10px;
+       
+      }
+      
+      .item2{
+        padding-left: 5px;
+        font-size: 10px;
+      }
+      .item3{
+        padding-left: 5px;
+        font-size: 10px;
+      }
+      
+      .item4{
+        padding-left: 5px;
+        font-size: 10px;
+      }
+       /* block section2  */
+   .imageblock2{
+    width: 320px;
+    position: absolute;
+    z-index: -1;
+ }
+ .section2text1{
+    font-size: 50px;
+    padding-top: 50px;
+    padding-left: 30px;
+    color: #fff;
+   }
+   .section2text2{
+    color: #EF9114;
+    font-size: 20px;
+    padding-left: 210px;
+    margin-top: -35px;
+   }
+ }
+ 
+ 
