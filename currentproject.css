@@ -1,0 +1,231 @@
+/* div section1 navbar */
+.firstnavbar{
+    color: #fff;
+    padding-left: 80px;
+    font-size: 20px;
+   
+ }
+ .navimage{
+    margin-left: 450px;
+ }
+ .navtext1{
+    padding-left: 20px;
+ }
+ .listhome:hover{
+    background-color: blue;
+ }
+  /* div section2 */
+  .navbar2{
+    display: flex;
+    background-color: #EF9114;
+  }
+  .navtext2{
+    padding-top: 20px;
+    font-size: 18px;
+  }
+  .logotext{
+   font-size: x-large;
+   text-decoration: none;
+   font-weight: bold;
+   color: #000;
+ }
+ .listtext{
+    color: #fff;
+ }
+
+
+/* section4 */
+
+.bgimagesection4{
+   width: 1897px;
+   height: 1000px;
+   background-repeat: no-repeat;
+}
+.projecthead{
+   text-align: center;
+   font-size: 50px;
+   border-bottom: 5px solid #000;
+   margin-left: 750px;
+   margin-right: 750px;
+}
+
+.projectpara{
+   display: flex;
+   justify-content: space-around;
+   justify-content: space-between;
+   padding-top: 100px;
+   padding-left: 100px;
+   padding-right: 100px;
+}
+.projectpara1{
+   padding: 20px 20px 20px 20px;
+   height: 300px;
+   border: 3px solid black;
+   border-radius: 5px;
+   box-sizing: border-box;
+   font-size: 20px;
+   font-weight: bold;
+   text-align: justify;
+}
+.projectpara1:hover{
+   border: 3px solid green;
+}
+.projectpara2{
+   padding: 20px 20px 20px 20px;
+   height: 300px;
+   border: 3px solid black;
+   border-radius: 5px;
+   box-sizing: border-box;
+   margin-left: 50px;
+   margin-right: 50px;
+   font-size: 20px;
+   font-weight: bold;
+   text-align: justify;
+}
+.projectpara2:hover{
+   border: 3px solid green;
+}
+.projectpara3{
+   padding: 20px 20px 20px 20px;
+   height: 300px;
+   border: 3px solid black;
+   border-radius: 5px;
+   box-sizing: border-box;
+   font-size: 20px;
+   font-weight: bold;
+   text-align: justify;
+}
+.projectpara3:hover{
+   border: 3px solid green;
+}
+.projectinfodiv{
+   display: flex;
+   justify-content: space-around;
+   justify-content: space-evenly;
+   padding: 50px 10px 30px 10px; 
+}
+.sectiondiv1{
+   box-sizing: border-box;
+   border: 1px solid #EF9114;
+   background-color: #EF9114;
+   font-size: 20px;
+   border-radius: 5px;
+   padding: 15px 15px 15px 15px; 
+   color: #000;
+}
+.sectiondiv2{
+   box-sizing: border-box;
+   border: 1px solid #EF9114;
+   background-color: #EF9114;
+   font-size: 20px;
+   border-radius: 5px;
+   padding: 15px 15px 15px 15px; 
+   color: #000;
+}
+.sectiondiv3{
+   box-sizing: border-box;
+   border: 1px solid #EF9114;
+   background-color: #EF9114;
+   font-size: 20px;
+   border-radius: 5px;
+   padding: 15px 15px 15px 15px; 
+   color: #000;
+}
+.sectiondiv1:hover{
+   background-color: green;
+}
+.sectiondiv2:hover{
+   background-color: green;
+}
+.sectiondiv3:hover{
+   background-color: green;
+}
+
+ /* footer section   pagesection17 */
+.section17{
+    background-color: #231f20;
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    margin-top: 100px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ }
+ div > a{
+    color: #EF9114;
+    text-decoration: none;
+    font-size: 30px;
+ }
+ 
+ .section171{
+    padding-left: 100px;
+    padding-top: 50px;
+ }
+ .borderbottom{
+    border-bottom: 2px solid #EF9114;
+    color: #EF9114;
+  }
+ .section171head{
+    color:white ;
+    list-style-type: none;
+    text-decoration: none;
+ }
+ .section171one{
+    color:white ;
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: bold;
+ }
+ .section171one1{
+    color: #EF9114;
+    list-style-type: none;
+ }
+ .section171two{
+    color:white ;
+    list-style-type: none;
+    text-decoration: none;
+    font-weight: bold;
+ }
+ 
+ .section172{
+    padding-left: 50px;
+    padding-top: 50px;
+    text-align: justify;
+    width: 400px;
+ }
+ .section173{
+    color: white;
+    padding-top: 50px; 
+ }
+ .section174{
+    padding-top: 50px;
+    padding-right: 50px;
+ }
+ .section174one{
+   color: #fff;
+   text-align: center;
+   font-size: 30px;
+ }
+ .image17{
+    padding-left: 40px;
+     width: 250px;
+    height: 100px; 
+ }
+ .textpre{
+     font-family: 'Times New Roman', Times, serif;
+ }
+ .section18{
+    background-color: #EF9114;
+    height: 80px;
+    padding-top: 24px;
+    text-align: center;
+    
+   
+ }
+ .section18 > a{
+    color: #fff;
+    font-size: 17px;
+ 
+ }
+ 
+  

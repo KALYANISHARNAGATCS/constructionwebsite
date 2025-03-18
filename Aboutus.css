@@ -12,7 +12,7 @@
    padding-left: 20px;
 }
 .listhome:hover{
-   background-color: rgba(134, 197, 232, 0.247);
+   background-color: blue;
 
 }
  /* div section2 */
@@ -26,6 +26,9 @@
  }
  .logotext{
    font-size: x-large;
+   text-decoration: none;
+   font-weight: bold;
+   color: #000;
  }
 .listtext{
    color: #fff;
@@ -141,6 +144,13 @@
    padding-left: 130px;
    color: #EF9114;
   }
+  .imagepara{
+   font-size: 20px;
+   font-weight: bold;
+   text-align: justify;
+   padding-left: 15px;
+   padding-right: 15px;
+  }
 
  /* footer section   pagesection17 */
  .section17{
@@ -162,7 +172,10 @@ div > a{
 .section171{
    padding-left: 100px;
    padding-top: 50px;
-
+}
+.borderbottom{
+   border-bottom: 2px solid #EF9114;
+    color: #EF9114;
 }
 .section171head{
    color:white ;
@@ -173,9 +186,11 @@ div > a{
    color:white ;
    list-style-type: none;
    text-decoration: none;
-   font-weight: bold;
-  
-   
+   font-weight: bold; 
+}
+.section171one1{
+   color: #EF9114;
+   list-style-type: none;
 }
 .section171two{
    color:white ;
@@ -183,7 +198,6 @@ div > a{
    text-decoration: none;
    font-weight: bold;
 }
-
 .section172{
    padding-left: 50px;
    padding-top: 50px;
@@ -192,10 +206,7 @@ div > a{
 }
 .section173{
    color: white;
-   /* padding-left: 190px; */
    padding-top: 50px;
-   /* padding-right: 100px; */
-   
 }
 .section174{
    padding-top: 50px;
@@ -217,11 +228,8 @@ div > a{
 .section18{
    background-color: #EF9114;
    height: 80px;
-   /* padding-left: 150px; */
    padding-top: 24px;
    text-align: center;
-   
-  
 }
 .section18 > a{
    color: #fff;

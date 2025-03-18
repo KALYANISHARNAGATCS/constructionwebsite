@@ -3,7 +3,6 @@
    color: #fff;
    padding-left: 80px;
    font-size: 20px;
-  
 }
 .navimage{
    margin-left: 450px;
@@ -12,13 +11,14 @@
    padding-left: 20px;
 }
 .listhome:hover{
-   background-color: rgba(134, 197, 232, 0.247);
+   background-color: #175692;
+   background-size: cover;
 
 }
  /* div section2 */
  .navbar2{
    display: flex;
-   background-color: #EF9114;
+   background-color: rgb(239, 145, 20);
  }
  .navtext2{
    padding-top: 20px;
@@ -26,18 +26,17 @@
  }
  .logotext{
    font-size: x-large;
+   text-decoration: none;
+   font-weight: bold;
+   color: #000;
  }
 .listtext{
    color: #fff;
 }
 
- /* section 2 */
- .section21{
-   
-
- }
  .section3{
-    background-image: url(TopHeadImage.jpg);
+    /* background-image: url(TopHeadImage.jpg); */
+    background-color: #175692;
     height: 850px;
     opacity: 1px;
     background-repeat: no-repeat;
@@ -78,14 +77,8 @@
    border-top-right-radius: 15px;
    margin-left: 1px;
    padding-top: 5px;
-   /* animation-name: imagecontainer;
-   animation-duration: 5s;
-   animation-fill-mode: forwards; */
 }
 
-/* @keyframes imagecontainer{
-   from {top: 0px;}
-} */
 .imagesection2{
    border-top-left-radius: 15px;
    border-top-right-radius: 15px;
@@ -414,14 +407,11 @@
     margin-left: 50px; 
    text-align: justify;
 }
-/* pagesection16 */
-/* .section16{
-   font-size: 30px;
-   text-align: center;
-   padding-top: 100px;
 
-} */
 /* pagesection17   footersection*/
+
+/* footer section   pagesection17 */
+
 .section17{
    background-color: #231f20;
    display: flex;
@@ -437,12 +427,16 @@ div > a{
    text-decoration: none;
    font-size: 30px;
 }
-/* section171 */
+
 .section171{
    padding-left: 100px;
    padding-top: 50px;
 
 }
+/* .bottomborder{
+   border-bottom: 2px solid #EF9114;
+   color: #EF9114;
+ } */
 .section171head{
    color:white ;
    list-style-type: none;
@@ -471,10 +465,7 @@ div > a{
 }
 .section173{
    color: white;
-   /* padding-left: 190px; */
-   padding-top: 50px;
-   /* padding-right: 100px; */
-   
+   padding-top: 50px; 
 }
 .section174{
    padding-top: 50px;
@@ -496,7 +487,6 @@ div > a{
 .section18{
    background-color: #EF9114;
    height: 80px;
-   /* padding-left: 150px; */
    padding-top: 24px;
    text-align: center;
    
@@ -508,4 +498,4 @@ div > a{
 
 }
 
-
+ 

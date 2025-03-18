@@ -26,6 +26,9 @@
   }
   .logotext{
     font-size: x-large;
+    text-decoration: none;
+    font-weight: bold;
+    color: #000;
   }
  .listtext{
     color: #fff;
@@ -114,7 +117,7 @@ width: 1895px;
 .section42{
     color: black;
     font-size: 30px;
-    font-weight: lighter;
+    font-weight: bold;
     margin-left: 250px;
     margin-top: 100px;
     margin-right: 80px;
@@ -211,8 +214,10 @@ width: 1895px;
     text-decoration: none;
     font-weight: bold;
     padding-top: 20px;
-   
-    
+ }
+ .section171one1{
+    color: #EF9114;
+    list-style-type: none;
  }
  .section171two{
     color:white ;
@@ -229,10 +234,7 @@ width: 1895px;
  }
  .section173{
     color: white;
-    /* padding-left: 190px; */
     padding-top: 50px;
-    /* padding-right: 100px; */
-    
  }
  .section174{
     padding-top: 50px;
@@ -254,11 +256,8 @@ width: 1895px;
  .section18{
     background-color: #EF9114;
     height: 80px;
-    /* padding-left: 150px; */
     padding-top: 24px;
     text-align: center;
-    
-   
  }
  .section18 > a{
     color: #fff;
